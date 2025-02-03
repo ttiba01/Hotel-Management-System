@@ -1,0 +1,6 @@
+R1001;Suite;17500;1
+R1002;General;8920;1
+R1003;Presidential Suite;55850;1
+R1004;Deluxe;10900;1
+ 
+

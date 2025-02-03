@@ -1,0 +1,2 @@
+Ahad Ali;E1001;Manager;20000
+Alif Khan;E1002;Secretary;10000
